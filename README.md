@@ -27,4 +27,4 @@ Please follow the contribution guidelines outlined in CONTRIBUTING.md.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact Details
-For further information or support, please contact [Okechukwu Uzukwu](mailto:ouzukwu@gmail.com).
+For further information or support, please contact [Admin](mailto:okuzukwu@gmail.com).
